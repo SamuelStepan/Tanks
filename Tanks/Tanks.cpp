@@ -14,7 +14,7 @@ public:
 		sAppName = "Tanks";
 	}
 private:
-	olc::vi2d map_size = { 510,360 };
+	olc::vi2d map_size = { 510,330 };
 	olc::vi2d map_start = { 95,20 };
 	int square_size = 30;
 	olc::vi2d squares_count;
